@@ -13,5 +13,4 @@ class Person
     @name = new_name
   end
 
-
 end
